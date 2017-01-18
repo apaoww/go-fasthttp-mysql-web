@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	connectionString   = "root:878220@tcp(localhost:3306)/test"
+	connectionString   = "theusernameofdatabase:thepassword@tcp(localhost:3306)/databasename"
 	maxConnectionCount = 40
 )
 
